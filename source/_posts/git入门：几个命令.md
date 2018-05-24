@@ -22,6 +22,4 @@ Git入门
   
 
 完了，
-让我们欣赏一首歌
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52    src="//music.163.com/m/song?id=355992&userid=262762100">  
-</iframe>  
+继续学吧~~~
